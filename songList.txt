@@ -21,7 +21,7 @@ Prebody: Our God
 Prebody: One Thing Remains
 Prebody: Cornerstone
 Prebody: Blessed Assurance
-Prebody: How Great Is Our G-d
+Prebody: How Great Is Our God
 Body: 10,000 Reasons
 Body: Amazing Grace
 Body: Because He Lives (Amen)
@@ -30,13 +30,13 @@ Body: Boldly I Approach
 Body: Oceans
 Body: Wide as the Sky
 Body: Praise the King
-Body: O Praise the Name (An·stasis)
+Body: O Praise the Name (An√°stasis)
 Body: No Longer Slaves
 Body: The Stand
 Body: How He Loves
 Body: This I Believe (The Creed)
 Body: Hungry
-Body: L-rd I Need You
+Body: Lord I Need You
 Body: Come As You Are
 Body: Came to My Rescue
 Body: Wrap Me In Your Arms
@@ -50,5 +50,5 @@ Invitation: Good Good Father
 Invitation: Here's My Heart
 Invitation: Refiner's Fire
 Invitation: The More I Seek You
-Invitation: Closer (No, not the Chainsmokers song)
+Invitation: Closer
 Invitation: I Surrender
