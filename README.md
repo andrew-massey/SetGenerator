@@ -8,4 +8,3 @@ An application that randomly generates sets for Union Baptist Church's youth ban
   
 2) Via command line:
 
-  As long as all of the files are in the same directory and as long as you have Java 8 installed, it should work just fine.
