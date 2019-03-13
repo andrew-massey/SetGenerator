@@ -59,14 +59,6 @@ public class setController {
 		} else if (size < 26) {
 			index = rand.nextInt(BODY.length) + 0;
 			return "\n" + "Body: " + BODY[index] + setGen(size - 1);
-		}else if(size == 69){
-			return "You're just a sick chair, ya know that?";
-		}else if (size == 420){
-			return "Look, that's pretty dank, but that can't even fit in one day, let alone one worship service.";
-		}else if(size == 911){
-			return "Okay, now we're copying Bush? Not cool bro.";
-		}else if(size < 0){
-			return "Dude. Are you retarded?";
 		}else if(size == 0){
 			return "Cool, we get a night off!";
 		}  
@@ -203,7 +195,7 @@ public class setController {
     	try {
     		songList = new PrintWriter("songList.txt");
 		} catch (FileNotFoundException e) {
-			//Print a wtf window cause this file exists (Maybe fork bomb the user cause they don't deserve a computer?)
+			System.close();
 		}
 		
 		//write the info into the list
@@ -240,7 +232,6 @@ public class setController {
     	try {
 			inStream = new Scanner(new File(inputName));
 		} catch (FileNotFoundException e) {
-			// show N***a, what? (Tom & Jerry Meme)
 		}
     	
     	while(inStream.hasNextLine()){
@@ -336,7 +327,6 @@ public class setController {
 		}
 		else
 		{
-			//(Tom & Jerry Meme)
 		}
 		
 		addStage = null;
